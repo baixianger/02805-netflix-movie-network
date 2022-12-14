@@ -1,6 +1,9 @@
 # 02805_netflix_movie_network
 
-# Overview of Movie Network
+### Degree evolution video
+![](figures/evolution.mp4)
+
+## Overview of Movie Network
 
 | Network Attribute                                                                      | Describtion                                            | Type       |
 |----------------------------------------------------------------------------------------|--------------------------------------------------------|------------|
@@ -17,11 +20,11 @@
 | 'hap_outline', 'hap_plot', 'hap_synopsis', 'hap_keyword', 'hap_review', 'hap_describe' | Sentiment values corresponding to different text types | float 1-9  |
 | 'dg', 'cn', 'bt', 'ev'                                                                 | Centralities for degree, clossness, betweenness, eigenvector | float |
 
-# Topology of Netflix Movie Network
+## Topology of Netflix Movie Network
 ![](figures/4.png) 
 
-# Network Evolution
+## Network Evolution
 ![](figures/2-0.png) 
 
-# Sentiment Analysis
+## Sentiment Analysis
 ![](figures/5.png)
